@@ -1,0 +1,28 @@
+_repo: The-Early-Irish-Monastic-Schools-A-study-of-Ireland-s-contribution-to-early-medieval-culture_61956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, Hugh
+    birthdate: 1878
+    gutenberg_agent_id: '51696'
+    url: http://www.gutenberg.org/2009/agents/51696
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61956'
+  lccn: '24017564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education, Medieval'
+- !lcsh 'Monasteries -- Ireland'
+- !lcc 'LA'
+- !lcsh 'Education -- Ireland -- History'
+- GITenberg
+title: 'The Early Irish Monastic Schools
+
+  A study of Ireland''s contribution to early medieval culture'
+url: http://www.gutenberg.org/ebooks/61956
